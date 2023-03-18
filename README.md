@@ -1,4 +1,7 @@
-# 100-days-python
+# 100 Days of Python
+
+
+<img src="https://itsourcecode.com/wp-content/uploads/2022/06/Python-Tutorial-for-Beginners-Learn-Python-Programming-2022.png" style="height:300px;">
 
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data](https://dhanukaperera.github.io/100-days-python/day-01/notes)
